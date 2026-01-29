@@ -104,7 +104,7 @@ A full real-time feature extraction sketch that:
 
 - Threshold values (PPG threshold, QRS threshold behavior) may need tuning depending on sensor placement and participant physiology.
 - This repository covers **only the Real-Time Path** (embedded side) of the workflow attached below.
-  Offline model training / dataset experiments / classification are maintained in a separate repository.
+  Offline model training / dataset experiments / classification are maintained in a separate repository (https://github.com/Khadijakhanbme/ECG-PPG-Stress-Analysis)
 
   <img width="1548" height="729" alt="image" src="https://github.com/user-attachments/assets/f543ea6d-092f-4d3d-9a80-10ffe53b6b81" />
 
